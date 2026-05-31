@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ströhle;Götz;;;
+FN:Götz Ströhle
+ORG:Physiotherapie Golzheim
+TITLE:Sportphysiotherapeut
+TEL;TYPE=WORK,VOICE:+4921115809481
+TEL;TYPE=CELL,VOICE:+491738726636
+EMAIL:mail@physiotherapie-golzheim.de
+ADR;TYPE=WORK:;;Uerdinger Str. 46;Düsseldorf;;40474;Deutschland
+URL:https://physiotherapie-golzheim.de
+END:VCARD
